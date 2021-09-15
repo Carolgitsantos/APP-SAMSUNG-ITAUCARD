@@ -1,6 +1,8 @@
 #  APP SAMSUNG  ITAUCARD 
 Para solicitar o seu cartão, baixe o aplicativo Samsung Itaucard.
 
+https://play.google.com/store/apps/details?id=com.odete.samsung&hl=en&gl=US
+
 
 # Novo samsung itaucard 
 Além de vir sem número, garantindo mais segurança nas transações, ele te proporciona uma nova experiência 100% digital, desde o download do aplicativo, até a realização de suas compras, antes mesmo do cartão físico chegar na sua casa.
@@ -26,4 +28,9 @@ Faça a gestão do cartão de crédito diretamente pela tela do seu celular. Aqu
 
 • Fatura digital 
 Consulte seus gastos em tempo real, acesse a data de vencimento do seu cartão e limite disponível, além de gerar boletos e realizar o pagamento de faturas fechadas. Tudo em poucos cliques, direto no app. 
+
+
+
+
+
 
