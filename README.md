@@ -1,4 +1,4 @@
-#  SAMSUNG  ITAUCARD 
+# SAMSUNG  ITAUCARD 
 Para solicitar o seu cartão, baixe o aplicativo Samsung Itaucard.
 
 
