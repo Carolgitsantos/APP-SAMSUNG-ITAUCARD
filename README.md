@@ -1,5 +1,7 @@
 # SAMSUNG  ITAUCARD 
 Conheça o novo samsung itaucard e seus benefícios !
+
+
 Para solicitar o seu cartão, baixe o aplicativo Samsung Itaucard.
 
 https://play.google.com/store/apps/details?id=com.odete.samsung&hl=en&gl=US
